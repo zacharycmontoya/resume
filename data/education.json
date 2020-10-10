@@ -1,0 +1,20 @@
+[
+    {
+        "school":"University of Washington",
+        "degree":"Master of Science",
+        "major":"Computer Science & Engineering",
+        "range":"2017 - 2020"
+    },
+    {
+        "school":"University of Arizona",
+        "degree":"Bachelor of Science in Engineering",
+        "major":"Electrical and Computer Engineering",
+        "range":"2011 - 2015"
+    },
+    {
+        "school":"University of Arizona",
+        "degree":"Bachelor of Science",
+        "major":"Computer Science",
+        "range":"2011 - 2015"
+    }
+]
