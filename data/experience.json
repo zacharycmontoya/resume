@@ -1,0 +1,38 @@
+[
+    {
+        "role":"Open-Source Software Engineer - .NET / C#",
+        "company":"Datadog",
+        "summary":"",
+        "range":"May 2019 - Present"
+    },
+    {
+        "role":"Software Engineer II",
+        "company":"Microsoft",
+        "summary":"Previous titles: Software Engineer I",
+        "range":"Aug 2016 - Apr 2019"
+    },
+    {
+        "role":"Web Developer Intern",
+        "company":"Elegant Thought",
+        "summary":"I handled various projects as they required my attention, covering a wide range of technologies. I improved the styling and functionality of existing web forms for Elegant Thought clients using basic HTML, Javascript, and CSS. I debugged and bug-fixed several PHP and ASP.NET sties that are used globally by large firms. I also built a Ruby on Rails site from scratch. Each of the technologies used during my time at Elegant Thought were new to me, so I learned the technologies and developed my skills over a short period of time.",
+        "range":"Aug 2013 - May 2015"
+    },
+    {
+        "role":"SDE Intern",
+        "company":"Microsoft",
+        "summary":"Using C# and XAML, I created the infrastructure and the initial UI for a Visual Studio extension to help Windows 8 app developers adopt the new Runtime Directives configuration that is necessary for using reflection in .NET Native applications.",
+        "range":"May 2014 - Aug 2014"
+    },
+    {
+        "role":"Section Leader for Computer Science Department",
+        "company":"University of Arizona",
+        "summary":"A Section Leader is responsible for grading assignments and exams, leading discussion sections of 20+ students, and holding regular office hours for undergraduate Computer Science courses.\n\nFall 2012 - Section Leader for CSc 127A Introduction to Computer Science 1\nSpring 2013 - Section Leader for CSc 127B Introduction to Computer Science 2\nFall 2013, Spring 2014 - Section Leader for CSc 335 Object-Oriented Software Design",
+        "range":"Aug 2012 - May 2014"
+    },
+    {
+        "role":"Software Engineering Intern",
+        "company":"Raytheon",
+        "summary":"I contributed to an R&D project built on the Hadoop framework. This work required an understanding of the framework and its services, such as Pig, HBase, and MapReduce, which together provide a strong set of tools to read in massive datasets and analyze them. I also gained experience working with the Javascript library OpenLayers and heatmap.js by creating a map that served localized tiles and by displaying heatmaps based off our data.",
+        "range":"Aug 2012 - May 2014"
+    }
+]
