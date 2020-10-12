@@ -16,7 +16,7 @@ OpenTelemetry is the industry standard format for capturing telemetry from your 
 - Metrics
 - Logging
 
-This project provides a community-supported implementation for automatically capturing traces from .NET applications without requiring any application code changes. The fundamental architecture of the project was forked from the Datadog .NET Tracer, so please see the [project](/projects/contributions/dd-trace-dotnet) description to understand the structure of the project.
+This project provides a community-supported implementation for automatically capturing traces from .NET applications without requiring any application code changes. The fundamental architecture of the project was forked from the Datadog .NET Tracer, so please see the [project](/contributions/dd-trace-dotnet) description to understand the structure of the project.
 
 ### Contributions
-This project started off as a fork of the Datadog .NET Tracer and it continues to accept changes in the Datadog .NET Tracer. Please see those [contributions](/projects/contributions/dd-trace-dotnet) to understand the main contributions I've made to the project.
+This project started off as a fork of the Datadog .NET Tracer and it continues to accept changes in the Datadog .NET Tracer. Please see those [contributions](/contributions/dd-trace-dotnet) to understand the main contributions I've made to the project.
