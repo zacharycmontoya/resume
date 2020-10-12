@@ -4,7 +4,7 @@ link: "https://github.com/datadog/dd-trace-dotnet"
 image: "/images/dd_logo_h_rgb.png"
 description: "Automatically instruments .NET applications to capture and send traces to Datadog."
 featured: true
-tags: [".NET","Datadog","APM","OpenTelemetry","OpenTracing"]
+tags: [".NET","Datadog","APM","OpenTelemetry","OpenTracing", "Observability"]
 weight: 100
 sitemap: 
     priority : 0.8
